@@ -4,7 +4,7 @@
 Aplicativo de receitas feito com React Native e Expo. Dá para buscar receitas pelo nome, filtrar por categoria, abrir os detalhes, ajustar o número de porções (as quantidades dos ingredientes são recalculadas), marcar os passos do preparo já feitos e usar um temporizador. Também é possível cadastrar uma receita nova, que aparece no topo da lista.
 
 ## Aluno
-NOME_DO_ALUNO, RGM RGM_DO_ALUNO.
+Gabriel Roncari Macedo, RGM 41923847.
 
 ## Telas
 - **Home** (`screens/Home.js`): lista as receitas com indicador de carregamento, campo de busca, filtro por categoria, contador de resultados e aviso de lista vazia. Tocar em uma receita abre os detalhes, e o botão "+ Nova receita" abre o formulário.
