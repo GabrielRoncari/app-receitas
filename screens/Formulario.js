@@ -38,6 +38,7 @@ export default function Formulario({ navigation }) {
 
   const atualizarCampo = (campo, valor) => {
     setForm({ ...form, [campo]: valor });
+    setErro('');
   };
 
   const salvar = () => {
